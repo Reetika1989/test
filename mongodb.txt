@@ -1,0 +1,10 @@
+reet_1989
+ritika1889
+
+pip install pymongo
+pip install dnspython
+
+
+import pymongo
+import dnspython
+client = pymongo.MongoClient("mongodb+srv://reet_1989:ritika1889@cluster0.ibxj6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
